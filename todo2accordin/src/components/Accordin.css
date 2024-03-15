@@ -1,0 +1,73 @@
+button {
+    /* Set initial background color */
+    background-color: blue;
+    display: flex;
+    color: white; /* Text color */
+    border: none; /* Optional: remove button border */
+    padding: 10px 20px; /* Optional: adjust padding */
+    border-radius: 10px;
+  }
+  
+  button:hover {
+    /* Change background color on hover */
+    background-color: #03b5d2;
+  }
+  p{
+
+justify-content: center;
+display: flex;
+background-color: pink;
+  }
+  span {
+    margin-left: 50px;
+  }
+
+  /* .plus-icon {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+  }
+  
+  /* Horizontal line */
+  /* .plus-icon::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: white;
+  } */
+  
+  /* Vertical line */
+  /* .plus-icon::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 2px;
+    height: 100%;
+    background-color: white;
+  } */ 
+
+  /* .minus-icon {
+    width: 20px;
+    height: 2px;
+    background-color: black;
+    position: relative;
+  }
+  
+  /* Horizontal line */
+  /* .minus-icon::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+  } */ 
+  /* .main-items{
+    text-align: center;
+  } */

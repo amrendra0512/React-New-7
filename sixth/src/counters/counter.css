@@ -1,0 +1,18 @@
+.counter{
+      display: flex;
+      justify-content: center; /* Horizontally center */
+      align-items: center; /* Vertically center */
+      height: 100vh; /* Full height of the viewport */
+}
+
+h2 {
+    background-color: #f0f0f0;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  /* .addcounter{
+    display: flex;
+    height: 90vh;
+  } */
