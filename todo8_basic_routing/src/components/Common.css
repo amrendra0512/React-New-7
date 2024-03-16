@@ -1,0 +1,17 @@
+.home-content{
+    text-align: center;
+    background-color: red;
+    font-size: large;
+}
+
+.about-content{
+    text-align: center;
+    background-color: green;
+    font-size: large;
+}
+
+.contact-content{
+    text-align: center;
+    background-color: yellow;
+    font-size: large;
+}
