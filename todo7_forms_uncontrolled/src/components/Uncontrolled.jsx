@@ -9,6 +9,8 @@ const Uncontrolled = () => {
     console.log(emailRef.current.value, passwordRef.current.value); // the value is getting like this using useRef
   };
   return (
+    <>
+    <h4>UnControlled Components</h4>
     <form onSubmit={handleSubmit}>
       <input type="email" name="" id="em" ref={emailRef} /> <br />
       <br />
@@ -16,6 +18,7 @@ const Uncontrolled = () => {
       <br />
       <button type="submit">Submit</button>
     </form>
+    </>
   );
 };
 
