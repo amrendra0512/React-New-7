@@ -1,3 +1,10 @@
 .forms-content{
   text-align: center;
+  width: 300px; /* Set the width of the form box */
+  margin: 0 auto; /* Center the form box horizontally */
+  padding: 20px; /* Add some padding around the form elements */
+  border: 5px solid green; /* Add a border around the form box */
+  border-radius: 5px; /* Add rounded corners to the form box */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a box shadow for a 3D effect */
+  background-color: #f9f9f9; /* Set the background color of the form box */
 }
