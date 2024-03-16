@@ -39,7 +39,7 @@ const SimpleForms = () => {
       setPersonaDetailsBlur({ ...personaDetailsBlur, email: "enter email " });
     }
     if (name === "email" && value.length > 0) {
-      setPersonaDetailsBlur({ ...personaDetailsBlur, password: "" });
+      setPersonaDetailsBlur({ ...personaDetailsBlur, email: "" });
     }
   };
 
