@@ -1,17 +1,47 @@
-.home-content{
-    text-align: center;
-    background-color: red;
-    font-size: large;
+.home-content {
+  margin-top: 30px;
+  margin-left: 600px;
+  text-align: center;
+  background-color: red;
+  font-size: large;
+  border: 1px solid #ccc; /* Add a border around the box */
+  border-radius: 5px; /* Add rounded corners to the box */
+  padding: 20px; /* Add padding inside the box */
+  width: 300px; /* Set the width of the box */
 }
 
-.about-content{
-    text-align: center;
-    background-color: green;
-    font-size: large;
+.about-content {
+  margin-top: 30px;
+  text-align: center;
+  background-color: green;
+  font-size: large;
+  border: 1px solid #ccc; /* Add a border around the box */
+  border-radius: 5px; /* Add rounded corners to the box */
+  padding: 20px; /* Add padding inside the box */
+  width: 300px; /* Set the width of the box */
+  margin-left: 600px;
 }
 
-.contact-content{
-    text-align: center;
-    background-color: yellow;
-    font-size: large;
+.contact-content {
+  margin-top: 30px;
+  text-align: center;
+  background-color: yellow;
+  font-size: large;
+  border: 1px solid #ccc; /* Add a border around the box */
+  border-radius: 5px; /* Add rounded corners to the box */
+  padding: 20px; /* Add padding inside the box */
+  width: 300px; /* Set the width of the box */
+  margin-left: 600px;
+}
+
+.notFound-content {
+  margin-top: 30px;
+  text-align: center;
+  background-color: gray;
+  font-size: large;
+  border: 1px solid #ccc; /* Add a border around the box */
+  border-radius: 5px; /* Add rounded corners to the box */
+  padding: 20px; /* Add padding inside the box */
+  width: 300px; /* Set the width of the box */
+  margin-left: 600px;
 }
