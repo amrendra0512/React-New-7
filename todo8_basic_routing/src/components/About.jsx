@@ -3,9 +3,11 @@ import './Common.css';
 
 const About = () => {
   return (
+    <>
     <div className='about-content'>
       ABOUT
     </div>
+    </>
   )
 }
 

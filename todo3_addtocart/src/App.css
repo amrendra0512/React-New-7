@@ -1,0 +1,22 @@
+.show-header{
+  text-align: end;
+  margin-right: 100px;
+  padding: 2px;
+ 
+
+}
+
+.header-span{
+  background-color: green;
+}
+
+.count-cart-items{
+  text-align: end;
+  margin-right: 100px;
+  padding: 2px;
+  color: white;
+}
+
+.for-cart-span{
+  background-color: blue;
+}

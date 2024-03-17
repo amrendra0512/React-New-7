@@ -1,0 +1,45 @@
+
+
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns with equal width */
+    grid-gap: 10px; /* Space between grid items */
+   
+    
+  }
+
+  .image-item {
+    width: 100px;
+    height: 100px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+   
+  }
+
+  .images-border{
+    border: 3px solid #333; /* Border style */
+    border-radius: 5px;
+  }
+
+  .container-button {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+  }
+
+  .add-cart{
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+  }
+  
+  /* .image-item img {
+    max-width: 100%;
+    height: auto;
+  } */
