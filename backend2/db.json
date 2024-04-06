@@ -1,0 +1,65 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Who wrote \"To Kill a Mockingbird\"?",
+      "options": [
+        "Harper Lee",
+        "J.K. Rowling",
+        "Stephen King",
+        "Charles Dickens"
+      ],
+      "correctAnswer": "Harper Lee"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": ["London", "Paris", "Berlin", "Madrid"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "question": "Who wrote \"To Kill a Mockingbird\"?",
+        "options": [
+          "Harper Lee",
+          "J.K. Rowling",
+          "Stephen King",
+          "Charles Dickens"
+        ],
+        "correctAnswer": "Harper Lee"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": ["London", "Paris", "Berlin", "Madrid"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "question": "Who wrote \"To Kill a Mockingbird\"?",
+        "options": [
+          "Harper Lee",
+          "J.K. Rowling",
+          "Stephen King",
+          "Charles Dickens"
+        ],
+        "correctAnswer": "Harper Lee"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": ["London", "Paris", "Berlin", "Madrid"],
+        "correctAnswer": "Paris"
+      },
+      {
+        "question": "Who wrote \"To Kill a Mockingbird\"?",
+        "options": [
+          "Harper Lee",
+          "J.K. Rowling",
+          "Stephen King",
+          "Charles Dickens"
+        ],
+        "correctAnswer": "Harper Lee"
+      }
+  ]
+}
